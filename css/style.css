@@ -1,0 +1,67 @@
+<style>@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');</style>
+
+html {
+    
+    
+}
+
+* {
+    /* border: 1px dotted red; */
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'sans-serif';
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    
+
+}
+
+.content {
+    width: 360px;
+    margin: 0 auto;
+    
+    
+
+}
+
+.content-wrap {
+    background-color: hsl(0, 0%, 100%);
+    padding: 18px;
+    border-radius: 18px;
+    text-align: center;
+    margin: 0 1em;
+
+}  
+    
+.content-wrap img {
+    width: 100%;
+    border-radius: 18px;
+    
+}
+
+.skills {
+    padding: 22px 10px;
+}
+    
+
+.skills  h2 {
+    color: hsl(218, 44%, 22%);
+    padding-bottom: 15px;
+    
+    
+}
+
+.skills p {
+    color: hsl(216, 15%, 48%)
+}
+
+
+
+
+
