@@ -1,9 +1,5 @@
-<style>@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');</style>
 
-html {
-    
-    
-}
+
 
 * {
     /* border: 1px dotted red; */
@@ -52,13 +48,16 @@ body {
 
 .skills  h2 {
     color: hsl(218, 44%, 22%);
-    padding-bottom: 15px;
+    padding-bottom: 1rem;
+    font-family: "Outfit", sans-serif;
     
     
 }
 
 .skills p {
-    color: hsl(216, 15%, 48%)
+    color: hsl(216, 15%, 48%);
+    font-size: 15px;
+    padding: 0.9rem;
 }
 
 
