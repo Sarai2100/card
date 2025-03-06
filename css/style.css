@@ -19,7 +19,7 @@ body {
 }
 
 .content {
-    width: 340px;
+    width: 360px;
     margin: 0 auto;
     
 
@@ -61,7 +61,7 @@ body {
 .skills p {
     color: hsl(216, 15%, 48%);
     font-size: 15px;
-    padding: 0.9rem;
+    padding: 1rem;
 }
 
 
