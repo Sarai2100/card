@@ -19,8 +19,10 @@ body {
 }
 
 .content {
-    width: 360px;
+    width: 340px;
     margin: 0 auto;
+    
+
     
     
 
@@ -32,6 +34,8 @@ body {
     border-radius: 18px;
     text-align: center;
     margin: 0 1em;
+    box-shadow: 10px 10px 10px rgba(194, 195, 210, 0.5);
+
 
 }  
     
